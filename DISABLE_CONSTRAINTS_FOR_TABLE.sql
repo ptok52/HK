@@ -3,6 +3,14 @@
 --------------------------------------------------------
 set define off;
 
+--dsfsdf
+--sdfsdf
+--
+--
+--sdfdfsdf
+
+
+
   CREATE OR REPLACE EDITIONABLE PROCEDURE "DISABLE_CONSTRAINTS_FOR_TABLE" (p_table IN VARCHAR2) AS
 BEGIN
     -- 1) Zuerst alle abhängigen Foreign Keys anderer Tabellen deaktivieren
