@@ -3,9 +3,6 @@
 --------------------------------------------------------
 set define off;
 
---dsfsdf
-
-
 
 
   CREATE OR REPLACE EDITIONABLE PROCEDURE "DISABLE_CONSTRAINTS_FOR_TABLE" (p_table IN VARCHAR2) AS
